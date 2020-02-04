@@ -1,0 +1,24 @@
+{
+  "name": "github.com/hendrikswan/pluralsight-react-native-getting-started:lessons/lesson-2",
+  "version": "0.0.0",
+  "description": "hendrikswan/pluralsight-react-native-getting-started @ Jun 17, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.1.tar.gz",
+    "uuid": "3.2.1",
+    "moment": "^2.22.1",
+    "react-dom": "^16.8.6",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "1.4.0",
+    "react-native-action-button": "2.8.4",
+    "react-native-modal-datetime-picker": "4.13.0",
+    "react-test-renderer": "16.12.0"
+  }
+}
